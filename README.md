@@ -1,7 +1,7 @@
 # Diagnostico-de-la-diabetes
 Trabajo de Inteligencia Artificial 3-2023.
 ### Algoritmos Usados
-Regresion Logística, SVM, Random Forest
+K-Nearest Neighbors, SVM, Random Forest
 ### Herramienta necesaria
 Jupyter Notebook
 ### Instalación
